@@ -1,5 +1,7 @@
 # jade-commonjs [![Build Status](https://travis-ci.org/meryn/jade-commonjs.png?branch=master)](https://travis-ci.org/meryn/jade-commonjs) [![Dependency Status](https://david-dm.org/meryn/jade-commonjs.png)](https://david-dm.org/meryn/jade-commonjs)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/braveg1rl/jade-commonjs.svg)](https://greenkeeper.io/)
+
 Create CommonJS module from Jade template.
 
 ## Usage
